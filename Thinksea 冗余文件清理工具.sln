@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thinksea 冗余文件清理工具", "Thinksea 冗余文件清理工具.csproj", "{1DA7E2ED-5537-4A79-972B-6D121DC8507B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA7E2ED-5537-4A79-972B-6D121DC8507B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA7E2ED-5537-4A79-972B-6D121DC8507B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA7E2ED-5537-4A79-972B-6D121DC8507B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA7E2ED-5537-4A79-972B-6D121DC8507B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A04ACC4-FAE9-40BD-9132-ADF99C6074B4}
+	EndGlobalSection
+EndGlobal
